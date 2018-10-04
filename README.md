@@ -7,4 +7,4 @@ The first commit i have 2 examples to parse this json file:
 
 - The example 2 use Retrofit library to call the GET response.
 
-The second commit is just to remove the example 1 code-comments.
+The last commit is just to remove the example 1 code-comments.
